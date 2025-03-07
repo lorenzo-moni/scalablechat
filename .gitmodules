@@ -1,0 +1,6 @@
+[submodule "chat"]
+	path = chat
+	url = git@github.com:lorenzo-moni/scalablechat-chat-service.git
+[submodule "auth"]
+	path = auth
+	url = git@github.com:lorenzo-moni/scalablechat-auth-service.git
